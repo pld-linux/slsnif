@@ -1,5 +1,5 @@
 Summary:	Serial line sniffer
-#Summary(pl.UTF-8):	-
+Summary(pl.UTF-8):	Sniffer dla linii szeregowej
 Name:		slsnif
 Version:	0.4.4
 Release:	0.1
@@ -15,7 +15,10 @@ Serial line sniffer (slsnif). slsnif is a serial port logging utility.
 It listens to the specified serial port and logs all data going
 through this port in both directions.
 
-#%description -l pl.UTF-8
+%description -l pl.UTF-8
+slsnif to narzędzie do logowania z portu szeregowego. Nasłuchuje na
+określonym porcie i loguje wszystkie dane przechodzące przez ten port
+w obu kierunkach.
 
 %prep
 %setup -q
