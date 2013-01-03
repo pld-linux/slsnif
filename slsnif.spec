@@ -2,7 +2,7 @@ Summary:	Serial line sniffer
 Summary(pl.UTF-8):	Sniffer dla linii szeregowej
 Name:		slsnif
 Version:	0.4.4
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		Applications
 Source0:	http://dl.sourceforge.net/slsnif/%{name}-%{version}.tar.gz
